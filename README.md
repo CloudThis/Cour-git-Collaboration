@@ -3,7 +3,7 @@
 ## Partie 2 :
 
 ### Test des du textes en italic et des citation 
-**Texte en italic**
+*Texte en italic*
 
 >Test de citation
 
