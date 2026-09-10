@@ -12,6 +12,14 @@
 
 **Ceci est une phrase en Gras**
 
+- Étape 1
+- Étape 2
+- Étape 3
+
+1. Liste
+2. numéroté
+3. en 3 
+
 ## Partie 2 :
 
 ### Test des du textes en italic et des citation 
